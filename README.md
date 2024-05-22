@@ -4,8 +4,8 @@
 
 In this course, you will learn the basic knowledge of Linux, including the basic commands, file system, and user management. You will also learn how to install software on Linux. This course is suitable for beginners who have no experience in Linux.
 
-![Linux](https://img.shields.io/badge/Linux-whitesmoke?style=for-the-badge&logo=linux&link=https%3A%2F%2Flabex.io%2Fskilltrees)
-![Shell](https://img.shields.io/badge/Shell-whitesmoke?style=for-the-badge&logo=shell&link=https%3A%2F%2Flabex.io%2Fskilltrees)
+![Linux](https://img.shields.io/badge/Linux-whitesmoke?style=for-the-badge&logo=linux)
+![Shell](https://img.shields.io/badge/Shell-whitesmoke?style=for-the-badge&logo=shell)
 
 
 ## Scenarios
