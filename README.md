@@ -30,4 +30,3 @@ In this course, you will learn the basic knowledge of Linux, including the basic
 |      16 | 🎯 Extracting Data with Regular Expressions        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/17991'>Start Challenge</a> |
 |      17 | 📖 Software Installation on Linux                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/18005'>Start Lab</a>       |
 
-> Updated at: 2024-05-21T05:52:41Z
