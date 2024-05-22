@@ -10,8 +10,8 @@ In this course, you will learn the basic knowledge of Linux, including the basic
 
 ## Scenarios
 
-|   Index | Name                                               | Difficulty   | URL                                                                       |
-|---------|----------------------------------------------------|--------------|---------------------------------------------------------------------------|
+|   Index | Name                                              | Difficulty   | URL                                                                       |
+|---------|---------------------------------------------------|--------------|---------------------------------------------------------------------------|
 |      01 | 📖 Introduction to Linux                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/18001'>Start Lab</a>       |
 |      02 | 📖 Linux User Group and File Permissions           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/18002'>Start Lab</a>       |
 |      03 | 🎯 Add New User and Group                          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/17987'>Start Challenge</a> |
