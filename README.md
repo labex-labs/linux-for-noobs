@@ -10,7 +10,7 @@ In this course, you will learn the basic knowledge of Linux, including the basic
 
 ## Scenarios
 
-|   Index | Name                                              | Difficulty   | URL                                                                       |
+|   Index | Name                                              | Difficulty   | Practice                                                                  |
 |---------|---------------------------------------------------|--------------|---------------------------------------------------------------------------|
 |      01 | 📖 Introduction to Linux                           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/18001'>Start Lab</a>       |
 |      02 | 📖 Linux User Group and File Permissions           | ★☆☆          | <a target='_blank' href='https://labex.io/labs/18002'>Start Lab</a>       |
@@ -29,4 +29,9 @@ In this course, you will learn the basic knowledge of Linux, including the basic
 |      15 | 📖 Introducing Grep, Sed, and Awk Commands         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/18003'>Start Lab</a>       |
 |      16 | 🎯 Extracting Data with Regular Expressions        | ★☆☆          | <a target='_blank' href='https://labex.io/labs/17991'>Start Challenge</a> |
 |      17 | 📖 Software Installation on Linux                  | ★☆☆          | <a target='_blank' href='https://labex.io/labs/18005'>Start Lab</a>       |
+
+## More
+
+- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Linux Free Tutorials](https://github.com/labex-labs/linux-free-tutorials)
 
