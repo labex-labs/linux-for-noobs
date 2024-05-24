@@ -1,6 +1,6 @@
 # Linux for Noobs
 
-![Linux for Noobs](https://cover-creator.labex.io/linux-for-noobs.png)
+![Linux for Noobs](https://cover-creator.appbot.io/linux-for-noobs.png)
 
 In this course, you will learn the basic knowledge of Linux, including the basic commands, file system, and user management. You will also learn how to install software on Linux. This course is suitable for beginners who have no experience in Linux.
 
