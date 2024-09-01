@@ -21,7 +21,7 @@ This course offers a systematic and comprehensive introduction to Linux, designe
 |      07 | 🎯 Find a File                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/17993'>Start Challenge</a>  |
 |      08 | 📖 Environment Variables in Linux          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/385274'>Start Lab</a>       |
 |      09 | 🎯 Configure Development Environment       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/385293'>Start Challenge</a> |
-|      10 | 📖 File Packing and Compression            | ★☆☆          | <a target='_blank' href='https://labex.io/labs/17998'>Start Lab</a>        |
+|      10 | 📖 File Packaging and Compression          | ★☆☆          | <a target='_blank' href='https://labex.io/labs/385413'>Start Lab</a>       |
 |      11 | 🎯 Backup System Log                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/17989'>Start Challenge</a>  |
 |      12 | 📖 File System and Disk Management         | ★☆☆          | <a target='_blank' href='https://labex.io/labs/17999'>Start Lab</a>        |
 |      13 | 🎯 Analyzing Disk Usage                    | ★☆☆          | <a target='_blank' href='https://labex.io/labs/7775'>Start Challenge</a>   |
