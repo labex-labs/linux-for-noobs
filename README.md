@@ -26,8 +26,8 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 ## Exercises
 
-|   Index | Name                                       | Difficulty   | Practice                                                                                                                |
-|---------|--------------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------------------|
+|   Index | Name                                      | Difficulty   | Practice                                                                                                                |
+|---------|-------------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------------------|
 |      01 | 📖 Introduction to Linux                   | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-introduction-to-linux-18001'>Start Lab</a>                    |
 |      02 | 📖 Get Help on Linux Commands              | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-get-help-on-linux-commands-18000'>Start Lab</a>               |
 |      03 | 🎯 Delete and Move Files                   | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-delete-and-move-files-7777'>Start Challenge</a>               |
@@ -40,17 +40,14 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 |      10 | 📖 File Packaging and Compression          | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-file-packaging-and-compression-385413'>Start Lab</a>          |
 |      11 | 🎯 Backup System Log                       | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-backup-system-log-17989'>Start Challenge</a>                  |
 |      12 | 📖 File System and Disk Management         | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-file-system-and-disk-management-17999'>Start Lab</a>          |
-|      13 | 🎯 Analyzing Disk Usage                    | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-analyzing-disk-usage-7775'>Start Challenge</a>                |
-|      14 | 📖 Sequence Control and Pipeline           | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-sequence-control-and-pipeline-17994'>Start Lab</a>            |
-|      15 | 🎯 Space Battle Data Pipeline              | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-space-battle-data-pipeline-385343'>Start Challenge</a>        |
-|      16 | 📖 Simple Text Processing                  | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-simple-text-processing-18004'>Start Lab</a>                   |
-|      17 | 🎯 Analyzing PATH Directories              | ★★☆          | <a target='_blank' href='https://labex.io/tutorials/linux-analyzing-path-directories-385344'>Start Challenge</a>        |
-|      18 | 📖 Data Stream Redirection                 | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-data-stream-redirection-17995'>Start Lab</a>                  |
-|      19 | 🎯 Analyze Historical Commands             | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-analyze-historical-commands-17988'>Start Challenge</a>        |
-|      20 | 📖 Text Processing and Regular Expressions | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-text-processing-and-regular-expressions-18003'>Start Lab</a>  |
-|      21 | 🎯 Extracting Mails and Numbers            | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-extracting-mails-and-numbers-17991'>Start Challenge</a>       |
-|      22 | 📖 Software Installation on Linux          | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-software-installation-on-linux-18005'>Start Lab</a>           |
-|      23 | 🎯 Installing and Removing Packages        | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-installing-and-removing-packages-385380'>Start Challenge</a>  |
+|      13 | 📖 Sequence Control and Pipeline           | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-sequence-control-and-pipeline-17994'>Start Lab</a>            |
+|      14 | 🎯 Space Battle Data Pipeline              | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-space-battle-data-pipeline-385343'>Start Challenge</a>        |
+|      15 | 📖 Simple Text Processing                  | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-simple-text-processing-18004'>Start Lab</a>                   |
+|      16 | 📖 Data Stream Redirection                 | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-data-stream-redirection-17995'>Start Lab</a>                  |
+|      17 | 🎯 Analyze Historical Commands             | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-analyze-historical-commands-17988'>Start Challenge</a>        |
+|      18 | 📖 Text Processing and Regular Expressions | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-text-processing-and-regular-expressions-18003'>Start Lab</a>  |
+|      19 | 📖 Software Installation on Linux          | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-software-installation-on-linux-18005'>Start Lab</a>           |
+|      20 | 🎯 Installing and Removing Packages        | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-installing-and-removing-packages-385380'>Start Challenge</a>  |
 
 ## More
 
