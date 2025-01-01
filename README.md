@@ -36,7 +36,7 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 |      06 | 📖 File and Directory Operations           | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-file-and-directory-operations-17997'>Start Lab</a>           |
 |      07 | 🎯 Find a File                             | ★☆☆          | <a target='_blank' href='https://labex.io/labs/linux-find-a-file-17993'>Start Challenge</a>                            |
 |      08 | 📖 Environment Variables in Linux          | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-environment-variables-in-linux-385274'>Start Lab</a>         |
-|      09 | 🎯 Configure Development Environment       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/linux-configure-development-environment-385293'>Start Challenge</a>     |
+|      09 | 🎯 Configure Linux Environment Variables   | ★☆☆          | <a target='_blank' href='https://labex.io/labs/linux-configure-linux-environment-variables-437861'>Start Challenge</a> |
 |      10 | 📖 File Packaging and Compression          | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-file-packaging-and-compression-385413'>Start Lab</a>         |
 |      11 | 🎯 Backup System Log                       | ★☆☆          | <a target='_blank' href='https://labex.io/labs/linux-backup-system-log-17989'>Start Challenge</a>                      |
 |      12 | 📖 File System and Disk Management         | ★☆☆          | <a target='_blank' href='https://labex.io/tutorials/linux-file-system-and-disk-management-17999'>Start Lab</a>         |
