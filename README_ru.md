@@ -60,7 +60,7 @@ LabEx - это интерактивная практическая обучаю�
 
 ## Больше
 
-- 🔗 [Linux Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Linux Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Linux Free Tutorials](https://github.com/labex-labs/linux-free-tutorials)
+- 🔗 [Linux Курсы программирования](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Linux Проекты программирования](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Linux Бесплатные туториалы](https://github.com/labex-labs/linux-free-tutorials)
 
