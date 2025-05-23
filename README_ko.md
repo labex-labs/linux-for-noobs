@@ -60,7 +60,7 @@ LabEx 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입�
 
 ## 더 보기
 
-- 🔗 [Linux Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Linux Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Linux Free Tutorials](https://github.com/labex-labs/linux-free-tutorials)
+- 🔗 [Linux 프로그래밍 코스](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Linux 프로그래밍 프로젝트](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Linux 무료 튜토리얼](https://github.com/labex-labs/linux-free-tutorials)
 
