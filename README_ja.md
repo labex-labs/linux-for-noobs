@@ -60,7 +60,7 @@ LabEx は、コーディングとテクノロジーに特化したインタラ�
 
 ## その他
 
-- 🔗 [Linux Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Linux Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Linux Free Tutorials](https://github.com/labex-labs/linux-free-tutorials)
+- 🔗 [Linux プログラミングコース](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Linux プログラミングプロジェクト](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Linux 無料チュートリアル](https://github.com/labex-labs/linux-free-tutorials)
 
