@@ -60,7 +60,7 @@ LabEx 是一个专注于编程和技术的交互式动手学习平台。它结�
 
 ## 更多
 
-- 🔗 [Linux Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Linux Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Linux Free Tutorials](https://github.com/labex-labs/linux-free-tutorials)
+- 🔗 [Linux 编程课程](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Linux 编程项目](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Linux 免费教程](https://github.com/labex-labs/linux-free-tutorials)
 
