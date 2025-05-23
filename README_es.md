@@ -60,7 +60,7 @@ Aprende más sobre [LabEx VM](https://support.labex.io/using-labex/virtual-machi
 
 ## Más
 
-- 🔗 [Linux Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Linux Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Linux Free Tutorials](https://github.com/labex-labs/linux-free-tutorials)
+- 🔗 [Linux Cursos de Programación](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Linux Proyectos de Programación](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Linux Tutoriales Gratuitos](https://github.com/labex-labs/linux-free-tutorials)
 
