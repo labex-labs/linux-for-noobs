@@ -16,33 +16,33 @@
 
 ## 연습
 
-|   인덱스 | 이름                                   | 난이도   | 연습                                                                                                                      |
-|----------|----------------------------------------|----------|---------------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 🟢 Linux 시작하기                   | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-getting-started-with-linux-446315'>실습 시작</a>             |
-|       02 | 🎯 🟢 개인화된 터미널 환영 메시지 생성 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-create-personalized-terminal-greeting-446322'>도전 시작</a>  |
-|       03 | 📖 🟢 Linux 기본 파일 작업             | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-basic-file-operations-in-linux-18001'>실습 시작</a>          |
-|       04 | 📖 🟢 Linux 명령어 도움말 얻기         | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-get-help-on-linux-commands-18000'>실습 시작</a>              |
-|       05 | 🎯 🟢 파일 삭제 및 이동                | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-delete-and-move-files-7777'>도전 시작</a>                    |
-|       06 | 📖 🟢 Linux 사용자 그룹 및 파일 권한   | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-linux-user-group-and-file-permissions-18002'>실습 시작</a>   |
-|       07 | 🎯 🟢 새로운 사용자 및 그룹 추가       | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-add-new-user-and-group-17987'>도전 시작</a>                  |
-|       08 | 📖 🟢 파일 및 디렉토리 작업            | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-file-and-directory-operations-17997'>실습 시작</a>           |
-|       09 | 🎯 🟢 파일 찾기                        | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-find-a-file-17993'>도전 시작</a>                             |
-|       10 | 📖 🟢 Linux 환경 변수                  | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-environment-variables-in-linux-385274'>실습 시작</a>         |
-|       11 | 🎯 🔵 Linux 환경 변수 설정             | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-configure-linux-environment-variables-437861'>도전 시작</a>  |
-|       12 | 📖 🔵 파일 패키징 및 압축              | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-file-packaging-and-compression-385413'>실습 시작</a>         |
-|       13 | 🎯 🔵 시스템 로그 백업                 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-backup-system-log-17989'>도전 시작</a>                       |
-|       14 | 📖 🔵 파일 시스템 및 디스크 관리       | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-file-system-and-disk-management-17999'>실습 시작</a>         |
-|       15 | 🎯 🔵 디스크 사용량 분석               | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-analyzing-disk-usage-7775'>도전 시작</a>                     |
-|       16 | 📖 🟢 명령 시퀀스 제어 및 파이프라인   | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-sequence-control-and-pipeline-17994'>실습 시작</a>           |
-|       17 | 🎯 🔵 우주 전투 데이터 파이프라인      | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-space-battle-data-pipeline-385343'>도전 시작</a>             |
-|       18 | 📖 🔵 간단한 텍스트 처리               | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-simple-text-processing-18004'>실습 시작</a>                  |
-|       19 | 🎯 🔵 PATH 디렉토리 분석               | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-analyzing-path-directories-385344'>도전 시작</a>             |
-|       20 | 📖 🔵 데이터 스트림 리디렉션           | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-data-stream-redirection-17995'>실습 시작</a>                 |
-|       21 | 🎯 🔵 과거 명령 분석                   | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-analyze-historical-commands-17988'>도전 시작</a>             |
-|       22 | 📖 🔵 텍스트 처리 및 정규 표현식       | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-text-processing-and-regular-expressions-18003'>실습 시작</a> |
-|       23 | 🎯 🔵 이메일 및 숫자 추출              | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-extracting-mails-and-numbers-17991'>도전 시작</a>            |
-|       24 | 📖 🔵 Linux 에서의 소프트웨어 설치     | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-software-installation-on-linux-18005'>실습 시작</a>          |
-|       25 | 🎯 🔵 패키지 설치 및 제거              | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-installing-and-removing-packages-385380'>도전 시작</a>       |
+|   인덱스 | 이름                                 | 난이도   | 연습                                                                                                                      |
+|----------|--------------------------------------|----------|---------------------------------------------------------------------------------------------------------------------------|
+|       01 | 📖 🆓 리눅스 시작하기                | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-getting-started-with-linux-446315'>실습 시작</a>             |
+|       02 | 🎯 🆓 개인화된 터미널 인사말 만들기  | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-create-personalized-terminal-greeting-446322'>도전 시작</a>  |
+|       03 | 📖 🆓 Linux 기본 파일 작업           | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-basic-file-operations-in-linux-18001'>실습 시작</a>          |
+|       04 | 📖 🆓 Linux 명령어 도움말 얻기       | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-get-help-on-linux-commands-18000'>실습 시작</a>              |
+|       05 | 🎯 🆓 파일 삭제 및 이동              | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-delete-and-move-files-7777'>도전 시작</a>                    |
+|       06 | 📖 🆓 Linux 사용자 그룹 및 파일 권한 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-linux-user-group-and-file-permissions-18002'>실습 시작</a>   |
+|       07 | 🎯 🆓 새로운 사용자 및 그룹 추가     | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-add-new-user-and-group-17987'>도전 시작</a>                  |
+|       08 | 📖  파일 및 디렉토리 작업            | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-file-and-directory-operations-17997'>실습 시작</a>           |
+|       09 | 🎯  파일 찾기                        | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-find-a-file-17993'>도전 시작</a>                             |
+|       10 | 📖  Linux 환경 변수                  | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-environment-variables-in-linux-385274'>실습 시작</a>         |
+|       11 | 🎯  Linux 환경 변수 설정             | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-configure-linux-environment-variables-437861'>도전 시작</a>  |
+|       12 | 📖  파일 패키징 및 압축              | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-file-packaging-and-compression-385413'>실습 시작</a>         |
+|       13 | 🎯  시스템 로그 백업                 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-backup-system-log-17989'>도전 시작</a>                       |
+|       14 | 📖  파일 시스템 및 디스크 관리       | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-file-system-and-disk-management-17999'>실습 시작</a>         |
+|       15 | 🎯  디스크 사용량 분석               | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-analyzing-disk-usage-7775'>도전 시작</a>                     |
+|       16 | 📖  명령 시퀀스 제어 및 파이프라인   | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-sequence-control-and-pipeline-17994'>실습 시작</a>           |
+|       17 | 🎯  우주 전투 데이터 파이프라인      | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-space-battle-data-pipeline-385343'>도전 시작</a>             |
+|       18 | 📖  간단한 텍스트 처리               | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-simple-text-processing-18004'>실습 시작</a>                  |
+|       19 | 🎯  PATH 디렉토리 분석               | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-analyzing-path-directories-385344'>도전 시작</a>             |
+|       20 | 📖  데이터 스트림 리디렉션           | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-data-stream-redirection-17995'>실습 시작</a>                 |
+|       21 | 🎯  과거 명령 분석                   | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-analyze-historical-commands-17988'>도전 시작</a>             |
+|       22 | 📖  텍스트 처리 및 정규 표현식       | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-text-processing-and-regular-expressions-18003'>실습 시작</a> |
+|       23 | 🎯  이메일 및 숫자 추출              | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-extracting-mails-and-numbers-17991'>도전 시작</a>            |
+|       24 | 📖  Linux 에서의 소프트웨어 설치     | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-software-installation-on-linux-18005'>실습 시작</a>          |
+|       25 | 🎯  패키지 설치 및 제거              | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/linux-installing-and-removing-packages-385380'>도전 시작</a>       |
 
 ## 환경
 
