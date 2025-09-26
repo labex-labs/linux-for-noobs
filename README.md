@@ -25,15 +25,15 @@ This course offers a systematic and comprehensive introduction to Linux, designe
 |      05 | 🎯 🆓 Delete and Move Files                 | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-delete-and-move-files-7777'>Start Challenge</a>                   |
 |      06 | 📖 🆓 Linux User Group and File Permissions | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-linux-user-group-and-file-permissions-18002'>Start Lab</a>        |
 |      07 | 🎯 🆓 Add New User and Group                | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-add-new-user-and-group-17987'>Start Challenge</a>                 |
-|      08 | 📖 🆓 File and Directory Operations         | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-file-and-directory-operations-17997'>Start Lab</a>                |
-|      09 | 🎯 🆓 Find a File                           | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-find-a-file-17993'>Start Challenge</a>                            |
-|      10 | 📖 🆓 Environment Variables in Linux        | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-environment-variables-in-linux-385274'>Start Lab</a>              |
+|      08 | 📖  File and Directory Operations           | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-file-and-directory-operations-17997'>Start Lab</a>                |
+|      09 | 🎯  Find a File                             | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-find-a-file-17993'>Start Challenge</a>                            |
+|      10 | 📖  Environment Variables in Linux          | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-environment-variables-in-linux-385274'>Start Lab</a>              |
 |      11 | 🎯  Configure Linux Environment Variables   | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-configure-linux-environment-variables-437861'>Start Challenge</a> |
 |      12 | 📖  File Packaging and Compression          | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-file-packaging-and-compression-385413'>Start Lab</a>              |
 |      13 | 🎯  Backup System Log                       | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-backup-system-log-17989'>Start Challenge</a>                      |
 |      14 | 📖  File System and Disk Management         | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-file-system-and-disk-management-17999'>Start Lab</a>              |
 |      15 | 🎯  Analyzing Disk Usage                    | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-analyzing-disk-usage-7775'>Start Challenge</a>                    |
-|      16 | 📖 🆓 Sequence Control and Pipeline         | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-sequence-control-and-pipeline-17994'>Start Lab</a>                |
+|      16 | 📖  Sequence Control and Pipeline           | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-sequence-control-and-pipeline-17994'>Start Lab</a>                |
 |      17 | 🎯  Space Battle Data Pipeline              | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-space-battle-data-pipeline-385343'>Start Challenge</a>            |
 |      18 | 📖  Simple Text Processing                  | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-simple-text-processing-18004'>Start Lab</a>                       |
 |      19 | 🎯  Analyzing PATH Directories              | Beginner     | <a target='_blank' href='https://labex.io/tutorials/linux-analyzing-path-directories-385344'>Start Challenge</a>            |
